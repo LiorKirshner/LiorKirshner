@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lior Kirshner</h1>
 <h3 align="center">A Software developer with a B.Sc. in Mathematics and Computer Science from Ariel University.</h3>
 
-- 🔭 I’m currently working on [TechTroop Full Stuck Bootcamp](https://github.com/LiorKirshner/TechTroop)
+- 🔭 I’m currently working on [TechTroop Full Stack Bootcamp](https://github.com/LiorKirshner/TechTroop)
 
 - 🌱 Currently focused on full-stack web development (JavaScript, React, backend)
 
