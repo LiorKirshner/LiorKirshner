@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on [TechTroop Full Stuck Bootcamp](https://github.com/LiorKirshner/TechTroop)
 
-- 🌱 I’m currently learning **Full Stuck**
+- 🌱 Currently focused on full-stack web development (JavaScript, React, backend)
 
-- 👨‍💻 All of my projects are available at [https://liorkirshner.github.io/lior-portfolio/](https://liorkirshner.github.io/lior-portfolio/)
-
-- 📫 How to reach me **liorkk7@gmail.com**
+- 👨‍💻 All of my projects are available at [my portfolio](https://liorkirshner.github.io/lior-portfolio/)
+- 📫 How to reach me: [liorkk7@gmail.com](mailto:liorkk7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
