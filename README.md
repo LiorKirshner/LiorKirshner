@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TechTroop Full Stuck Bootcamp](https://github.com/LiorKirshner/TechTroop)
 
-- 🌱 I’m currently learning **Full Stuck**
+- 🌱 I’m currently learning **Full Stuck** web development
 
 - 👨‍💻 All of my projects are available at [https://liorkirshner.github.io/lior-portfolio/](https://liorkirshner.github.io/lior-portfolio/)
 
