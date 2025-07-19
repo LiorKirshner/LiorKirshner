@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="blue_logo.png" alt="Lior Kirshner Logo" width="200"/>
+</p>
+
 <h1 align="center">Hi 👋,  I'm Lior Kirshner</h1>
 <h3 align="center">A Software developer with a B.Sc. in Mathematics and Computer Science from Ariel University.</h3>
 
