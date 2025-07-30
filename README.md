@@ -9,7 +9,7 @@
 
 - 🌱 Currently focused on full-stack web development (JavaScript, React, backend)
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://liorkirshner.github.io/lior-portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://kirshner.me)
 - 📫 How to reach me: [liorkk7@gmail.com](mailto:liorkk7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
